@@ -1,4 +1,4 @@
-### Cronometer Clone (adventurous-blood-3456)  :
+### Cronometer Clone :
 
   Cronometer’s nutrition & calorie tracker is here to support you reach your health or weight loss goals. Cronometer helps you develop healthy habits by encouraging   you to not just focus on counting calories but on your nutrition as a whole.
    
@@ -11,6 +11,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+ ### Project Code : 
+ - adventurous-blood-3456
 
 ### Features :
 
