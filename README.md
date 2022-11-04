@@ -12,10 +12,6 @@
 </div>
 
 
-### Deployment on netlify : https://starlit-cassata-1a3d24.netlify.app/
-
-### Demo video : https://drive.google.com/file/d/1XUwyJrwegK77KTJiln-cOxK12Q5ov3b7/view
-
 ### Features :
 
 - Login and Signin facility.
@@ -32,6 +28,9 @@
 - Nidhi kumari
 - Bharath Kumar
 
+### Deployment on netlify : https://starlit-cassata-1a3d24.netlify.app/
+
+### Demo video : https://drive.google.com/file/d/1XUwyJrwegK77KTJiln-cOxK12Q5ov3b7/view
 
 ### Project Code : adventurous-blood-3456
 
