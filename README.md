@@ -1,7 +1,7 @@
 ### Cronometer Clone  :
 
 Cronometer’s nutrition & calorie tracker is here to support you reach your health or weight loss goals. Cronometer helps you develop healthy habits by encouraging you to not just focus on counting calories but on your nutrition as a whole.
----
+
 
 ### Tech Stack Used :
 
@@ -11,11 +11,9 @@ Cronometer’s nutrition & calorie tracker is here to support you reach your hea
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ### Deployment on netlify : https://starlit-cassata-1a3d24.netlify.app/
 
----
 
 ### Features :
 
@@ -24,7 +22,6 @@ Cronometer’s nutrition & calorie tracker is here to support you reach your hea
 - Responsive website.
 - Logout functionality.
 
----
 
 ### Team Members :
 
@@ -34,9 +31,8 @@ Cronometer’s nutrition & calorie tracker is here to support you reach your hea
 - Nidhi kumari
 - Bharath Kumar
 
----
 
 ### Project Code : adventurous-blood-3456
 
----
+
  
